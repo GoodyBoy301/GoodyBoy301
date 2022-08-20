@@ -1,3 +1,4 @@
+![GoodyBoy](https://img.shields.io/badge/Goody-Boy-orange)
 - 👋 Hi, I’m Goodness
 - Developer, Artist, Rapper 
 - 🌱 Based in Remote, Nigeria
